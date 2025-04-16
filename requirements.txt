@@ -2,3 +2,4 @@ gramformer
 transformers
 torch
 streamlit
+Jupiter Notebook
