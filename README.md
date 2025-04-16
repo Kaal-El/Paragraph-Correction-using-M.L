@@ -9,3 +9,22 @@ This AI-powered tool takes a grammatically incorrect sentence and returns a corr
 Example:
 Input: she no went to the market.
 Output: She did not go to the market.
+
+## 🚀 Features
+- Grammar correction using NLP
+- Context-aware suggestions
+- Lightweight and easy to run
+- Can be integrated into larger NLP workflows or web applications
+
+## ⚙️ Tech Stack
+- Python
+- Gramformer
+- Transformers (Hugging Face)
+- PyTorch
+- Streamlit (optional, for UI)
+
+## 📦 Installation
+```bash
+https://github.com/Kaal-El/Paragraph-Correction-using-M.L
+cd paragraph-correction-ml-gramformer
+pip install -r requirements.txt
