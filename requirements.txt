@@ -1,0 +1,4 @@
+gramformer
+transformers
+torch
+streamlit
