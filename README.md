@@ -28,3 +28,8 @@ Output: She did not go to the market.
 https://github.com/Kaal-El/Paragraph-Correction-using-M.L
 cd paragraph-correction-ml-gramformer
 pip install -r requirements.txt
+
+## 🙋‍♂️ Author  
+**Rishabh Singh**  
+[LinkedIn](https://www.linkedin.com/in/rishabhsingh2003/) | [GitHub](https://github.com/yourusername)
+
