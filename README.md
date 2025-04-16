@@ -33,5 +33,5 @@ pip install -r requirements.txt
 
 ## 🙋‍♂️ Author  
 **Rishabh Singh**  
-[LinkedIn](https://www.linkedin.com/in/rishabhsingh2003/) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/rishabhsingh2003/) | [Mail](31922csai@gmail.com)
 
